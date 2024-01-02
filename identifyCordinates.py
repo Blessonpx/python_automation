@@ -13,7 +13,7 @@ def get_coordinates(event, x, y, flags, param):
         print(f"Coordinates: {x}, {y}")
 
 # Load your image
-image_path = r'C:\Users\Dell\Pictures\Saved Pictures\downloads\file_1.jpg'
+image_path = r'C:\Users\Dell\Pictures\Saved Pictures\downloads\file_5.jpg'
 image = cv2.imread(image_path)
 
 
